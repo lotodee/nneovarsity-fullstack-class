@@ -1,0 +1,22 @@
+.wrapper{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    width: 100%;
+
+}
+.remember{
+display: flex;
+flex-direction: row;
+gap:10px
+}
+
+.forgot{
+    color: #6358ad;
+    font-weight: 500;
+}
+
+input[type="checkbox"] {
+  accent-color: #3631b6; /* Green */
+}
+

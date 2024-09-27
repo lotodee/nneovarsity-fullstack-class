@@ -1,0 +1,28 @@
+.input-wrapper{
+display: flex;
+flex-direction: column;
+width: 100%;
+
+
+}
+
+.input-label{
+    margin-bottom: 2px;
+    color:black;
+    font-weight:900
+}
+.input{
+  width: 100%;  
+  border: 1px solid #e8e8ea;
+padding: 20px;
+border-radius: 10px;
+}
+.input-box{
+    position: relative;
+}
+
+.icon{
+    position: absolute;
+left: 100%;
+    top:20%
+}
